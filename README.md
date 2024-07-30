@@ -4,6 +4,7 @@
 This repository is used to help implementing Simon's Congruence Pattern Mining problem using Simon Tree. The problem is given as following:  
 > Given text $T$, integer $k$, alphabet $\Sigma$, get pattern $P$ that maximizes the following equation:
 > $\lvert \lbrace (i,j) | T[i:j] \sim_k P \rbrace \rvert$
+Do note that all scripts here are written in vanilla Python 3.9.
 
 ## Milestones
 - ~~Implement Simon Tree Construction~~ (Done)
