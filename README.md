@@ -1,0 +1,1 @@
+# TOC-Simon-s-Congruence-Pattern-Mining-Using-Simon-Tree
